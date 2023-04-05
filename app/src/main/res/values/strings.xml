@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="skip1">Пропустить</string>
+    <string name="skip2">Завершить</string>
+    <string name="Tit1">Анализы</string>
+    <string name="Tit2">Уведомления</string>
+    <string name="Tit3">Мониторинг</string>
+    <string name="Text1">Экспресс сбор и получение проб</string>
+    <string name="Text2">Вы быстро узнаете о результатах</string>
+    <string name="Text3">Наши врачи всегда наблюдают за вашими показателями здоровья</string>
+    <string name="Email_Text1">Добро пожаловать!</string>
+    <string name="Email_Text2">Войдите, чтобы пользоваться функциями приложения</string>
+    <string name="Email_Text3">Вход по E-mail</string>
+    <string name="Email_Text4">Или войдите с помощью</string>
+    <string name="Email_Button1">Далее</string>
+    <string name="Email_Button2">Вход с Яндекс</string>
+    <string name="Email_Email">example@mail.ru</string>
+    <string name="OTP_code">Введите код из E-mail</string>
+
+
 </resources>
